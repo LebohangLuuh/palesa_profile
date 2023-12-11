@@ -382,6 +382,8 @@ p{
   }
 
   .navbar-nav .nav-link.active {
-    color: #00a6fb; /* Change to your desired active link color */
+    color: #00a6fb;
+     border-color: #00a6fb;
+     border-radius: 25px;
   }
   
